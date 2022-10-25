@@ -1,3 +1,28 @@
+
+## Neste projeto criei um clone do instagram utilizando react native  
+
+## Linguagens Utilizadas
+para a criaçâo desse sistema utilizei Html,css e JavaScript e react native
+
+## Como Utilizar?
+#1.Faça O dowload da pasta zip em code
+
+#2.Extraia  da pasta zip os arquivos no seu explorador de arquivos
+
+#3. nâo esqueça de utilizar o comando Npm install no seu vs code para instalar a pasta do react para conseguir utilizar o projeto
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
