@@ -1,0 +1,8 @@
+.feed {
+    display: inline-flex;
+    flex-direction: column;
+    margin-left: 16%;
+    margin-right: auto;
+    
+
+}

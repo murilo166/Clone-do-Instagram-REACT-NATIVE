@@ -1,0 +1,11 @@
+*{
+    max-width: 500px;
+}
+
+.buttonsPost{
+    display: flex;
+}
+
+topPost{
+    display: flex;
+}

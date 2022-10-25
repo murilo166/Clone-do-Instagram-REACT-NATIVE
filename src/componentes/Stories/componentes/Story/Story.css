@@ -1,0 +1,51 @@
+.stories{
+    
+    background:#FFFFFF;
+    height: 120px;
+    width: 615px;
+    margin-left: 16%;
+    margin-right: auto;
+    margin-top: 40px;
+    border:#DBDBDB 1px solid;
+    display: inline-flex;
+    
+    
+    
+}
+
+.historia{
+    border-radius: 50%;
+    width: 55px;
+    height: 55px;
+    background:linear-gradient(#c82d8e, #f99d4c);
+    margin-left: 20px;
+    margin-top: 15px;
+    margin-right: 5px;
+    
+    
+    
+    
+    
+    
+}
+
+.nome{
+    margin-top: 70px;
+    margin-left: 4px;
+    
+}
+
+.usarimagem{
+    border-radius: 50%;
+    width: 50px;
+    height: 55px;
+    margin-left: 2px;
+    margin-right: 2px;
+    
+
+}
+
+.conta{
+    margin-top: 11px;
+}
+

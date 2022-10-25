@@ -1,0 +1,136 @@
+.donoconta{
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    margin-top: 8px;
+    margin-left: 5px;
+    }
+
+.vulgos{
+        display: flex;
+        flex-direction: column;
+        margin-left: 11px;
+        margin-top: 10px;
+    }
+    
+.uso{
+        display: flex;
+        flex-direction: row;
+    }
+
+
+.principal{
+        margin-top: 2px;
+    }
+
+    
+.mudar{
+    margin-left: 20px;
+    margin-top: 18px;
+}
+
+
+
+.sugerindo{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+}
+
+
+.vertudo{
+    margin-left: 30px;
+    font-style: #A5A5A5;
+}
+
+
+.ajuste{
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+}
+
+
+.ajustedois{
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+
+}
+
+
+.ajustetres{
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+
+}
+
+.ajustequatro{
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+}
+
+
+.ajustecinco{
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+
+}
+
+.pessoas{
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    margin-left: 15px;
+}
+
+
+.primeirasugestao{
+    margin-bottom: 12px;
+    display: flex;
+    flex-direction: row;
+}
+
+.segundasugestao{
+    margin-bottom: 12px;
+    display: flex;
+    flex-direction: row;
+}
+
+
+.terceirasugestao{
+    margin-bottom: 12px;
+    display: flex;
+    flex-direction: row;
+}
+
+.quartasugestao{
+    margin-bottom: 12px;
+    display: flex;
+    flex-direction: row;
+}
+
+
+.quintasugestao{
+    display: flex;
+    flex-direction: row;
+}
+
+.organizacao{
+    display: flex;
+    flex-direction: column;
+    margin-left: 15px;
+}
+
+
+.seguir{
+    margin-left: 20px;
+    margin-top: 10px;
+
+}
+
+
+

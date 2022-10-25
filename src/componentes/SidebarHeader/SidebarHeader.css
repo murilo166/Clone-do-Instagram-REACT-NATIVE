@@ -1,0 +1,88 @@
+.SidebarHeader {
+    background: #FFFFFF;
+    border-right:#DBDBDB 1px solid;
+    width: 20%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.listItem {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding-top: 25px;
+    margin-left: 20px;
+    max-width: 300%;
+    
+}
+
+.item {
+    border-radius: 25px;
+    width: 80%;
+    padding: 5px 0;
+    margin: 3% 0;
+    cursor: pointer;
+    user-select: none;
+}
+
+.item:hover {
+    background: #d9d9d9;
+}
+
+.icon {
+    max-width: 45px;
+    max-height: 45px;
+    margin: 0 10px;
+}
+
+.iconeItem svg{
+    color: #333333;
+    margin: 10px 5px 0 10px;
+    height: 20px;
+}
+
+.logoInstagram{
+    max-width: 130px;
+    padding-top: 60px;
+    margin-left: 20px;
+}
+
+
+.seu{
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    
+}
+
+.seuperfil{
+    margin-top: 60px;
+    margin-left:20px;
+    display: flex;
+    flex-direction: row;
+}
+
+.diferente{
+    margin-left: 9px;
+    margin-top: 9px;
+}
+
+.retas{
+    margin-top: 90px;
+    margin-left: 10px;
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.tres{
+    margin-left: 20px;
+    
+}
+
+
+.denominacao{
+    margin-left: 5px;
+}

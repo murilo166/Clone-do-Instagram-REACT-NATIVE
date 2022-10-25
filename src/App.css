@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background: #FAFAFA;
+}
+
+.App {
+  display: flex;
+  flex-direction: row;
+}
+
+.timeline {
+  width: 80vw;
+  display: flex;
+  flex-direction: column;
+}
+
+
+
+
+.geral{
+  display: flex;
+  flex-direction: row;
+}
+
+.Sug{
+  
+  width: 380px;
+  height: 350px;
+  background: #FFFFFF;
+    border-right:#DBDBDB 0.5px solid;
+  margin-right: 370px;
+  margin-top: 50px;
+}
+

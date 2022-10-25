@@ -1,0 +1,127 @@
+.post {
+    background: #FFFFFF;
+    border:#DBDBDB 1px solid;
+    width: 50%;
+    min-width: 40vw;
+    min-height: 650px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 4%;
+    
+    display: flex;
+    flex-direction: column;
+}
+
+.bPost{
+    display: flex;
+    flex-direction: row;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    margin-left: 10px;
+    
+
+}
+
+
+.curtidas{
+    margin-left: 10px;
+    margin-bottom: 7px;
+}
+
+.comentario{
+    margin-left: 10px;
+    margin-bottom: 7px;
+}
+
+.comentarios{
+    margin-left: 10px;
+    margin-bottom: 7px;
+
+}
+
+
+.data{
+    margin-left: 10px;
+    margin-bottom: 7px;
+    
+
+}
+
+.adicionecomentario{
+    margin-top: 7px;
+    border-top: #DBDBDB 1px solid;
+    display: flex;
+    flex-direction: row;
+    
+}
+
+
+
+
+
+.creed{
+    max-width: 40vw;
+    max-height: 600px;
+    border: #FFFFFF 1px solid;
+    margin-top: 15px;
+}
+
+.caixa{
+    width: 500px;
+    border: #de2e2e;
+    height: 50px;
+    margin-left: 10px;
+    
+
+}
+
+.usuario{
+    border-radius: 50%;
+    width: 35px;
+    height: 35px;
+    margin-top: 5px;
+    margin-left: 5px;
+    
+    
+}
+
+.topPost{
+    display: flex;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.pontinhos{
+    margin-top: 10px;
+    margin-left: 450px;
+    
+}
+
+.nomeusuario{
+    margin-top: 15px;
+    margin-left: 11px;
+    
+    
+    
+}
+
+.btnum{
+    margin-right: 15px;
+}
+
+
+.emoji{
+    margin-top: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
